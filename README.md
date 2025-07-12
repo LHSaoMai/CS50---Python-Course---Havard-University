@@ -14,3 +14,4 @@ The course focus on:
 * Week 9: Et Cetera
 
 The course finish with a project that can be found here: https://github.com/LHSaoMai/CS50-Python---Final-Project---Tic-Tac-Toe-Game  
+(Done in 2024)
