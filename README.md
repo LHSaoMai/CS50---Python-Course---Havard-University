@@ -1,5 +1,5 @@
 # CS50---Python-Course---Havard-University  
-Here are all the exercices of the CS50 Python course at Havard Univeristy. Here is the link: https://cs50.harvard.edu/python/  
+Here are all the exercices of the CS50 Python course at Havard University. Here is the link: https://cs50.harvard.edu/python/  
 
 The course focus on: 
 * Week 0: Functions, Variables
